@@ -1,4 +1,5 @@
 # BitBruteForce-Wallet (Only for uncompressed Address!)
+# Privtekey -> uncompressed Pulickey -> uncompressed Address
 This is an effective script to Brute Force, the Private Key of any Bitcoin Public Address.
 
 How does the script work? 
