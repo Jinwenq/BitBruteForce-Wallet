@@ -23,7 +23,7 @@ def ripemd160(x):
 
 
 r = 0
-cores=1 #<------------------change here  CPU
+cores=2 #<------------------change here  CPU
 
 
 def seek(r, df_handler):
